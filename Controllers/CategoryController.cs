@@ -2,7 +2,7 @@
 
 namespace BeeComputer.Controllers
 {
-    public class CategoriesController : Controller
+    public class CategoryController : Controller
     {
         public IActionResult Index()
         {
