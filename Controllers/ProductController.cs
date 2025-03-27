@@ -16,11 +16,11 @@ namespace BeeComputer.Controllers
             return View();
         }
 
-        public IActionResult Detail(int Id)
+        public async Task<IActionResult> Details(int Id)
         {
             if (Id == null) return RedirectToAction("Index");
 
-            var productsById = _dataContext.Products.Where(p=>p.Id==Id).FirstOrDefault(p => p.Id == Id);
+            var productsById = _dataContext.Products.Where(p => p.Id == Id).FirstOrDefault();
             return View(productsById);
         }
     }
