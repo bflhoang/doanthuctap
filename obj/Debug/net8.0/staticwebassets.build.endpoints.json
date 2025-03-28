@@ -741,6 +741,170 @@
       ]
     },
     {
+      "Route": "images/CardRTX2060MSI_002.jpg",
+      "AssetFile": "images/CardRTX2060MSI_002.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i9LvEdbIgMikqkq4YND0uN7X+Vu4l58HJCUT76hgwDU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 12:11:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i9LvEdbIgMikqkq4YND0uN7X+Vu4l58HJCUT76hgwDU="
+        }
+      ]
+    },
+    {
+      "Route": "images/CardRTX2060MSI_002.tuuxvdk848.jpg",
+      "AssetFile": "images/CardRTX2060MSI_002.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i9LvEdbIgMikqkq4YND0uN7X+Vu4l58HJCUT76hgwDU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 12:11:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tuuxvdk848"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i9LvEdbIgMikqkq4YND0uN7X+Vu4l58HJCUT76hgwDU="
+        },
+        {
+          "Name": "label",
+          "Value": "images/CardRTX2060MSI_002.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/CardRTX2060ROG_001.jpg",
+      "AssetFile": "images/CardRTX2060ROG_001.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "945077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E8IJAR83UleLA4CTDqvzo8riT1UIUXnwuVMqJCKYH1k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 12:11:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E8IJAR83UleLA4CTDqvzo8riT1UIUXnwuVMqJCKYH1k="
+        }
+      ]
+    },
+    {
+      "Route": "images/CardRTX2060ROG_001.to7k6ppmam.jpg",
+      "AssetFile": "images/CardRTX2060ROG_001.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "945077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E8IJAR83UleLA4CTDqvzo8riT1UIUXnwuVMqJCKYH1k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 12:11:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "to7k6ppmam"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E8IJAR83UleLA4CTDqvzo8riT1UIUXnwuVMqJCKYH1k="
+        },
+        {
+          "Name": "label",
+          "Value": "images/CardRTX2060ROG_001.jpg"
+        }
+      ]
+    },
+    {
       "Route": "images/girl2.g5026ogjdw.jpg",
       "AssetFile": "images/girl2.jpg",
       "Selectors": [],

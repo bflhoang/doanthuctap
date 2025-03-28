@@ -37,6 +37,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\BeeComputer\\BeeComputer\\BeeComputer\\wwwroot\\images\\CardRTX2060MSI_002.jpg",
+      "PackagePath": "staticwebassets\\images\\CardRTX2060MSI_002.jpg"
+    },
+    {
+      "Id": "D:\\BeeComputer\\BeeComputer\\BeeComputer\\wwwroot\\images\\CardRTX2060ROG_001.jpg",
+      "PackagePath": "staticwebassets\\images\\CardRTX2060ROG_001.jpg"
+    },
+    {
       "Id": "D:\\BeeComputer\\BeeComputer\\BeeComputer\\wwwroot\\images\\girl2.jpg",
       "PackagePath": "staticwebassets\\images\\girl2.jpg"
     },
